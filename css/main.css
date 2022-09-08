@@ -213,3 +213,9 @@ td {
 .accordion-active:after {
     content: "\2212";
 }
+
+header #submit-button:focus {
+    outline: none !important;
+    outline-offset: 0;
+    box-shadow: none !important;
+}
