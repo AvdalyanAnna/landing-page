@@ -5,9 +5,9 @@
     <desc>Created with Sketch.</desc>
     <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
         <g id="step-1" transform="translate(1.000000, 1.000000)">
-            <rect id="Rectangle-4" stroke="#FFFFFF" fill="#FFFFFF" x="0" y="0" width="540" height="175"></rect>
+            <rect id="Rectangle-4" x="0" y="0" width="540" height="175"></rect>
             <circle id="Oval" stroke="#C1C1C2" stroke-width="3" cx="270" cy="84" r="78"></circle>
-            <g id="Group" opacity="0.300000012" transform="translate(224.000000, 49.000000)">
+            <g id="Group" opacity="1" transform="translate(224.000000, 49.000000)">
                 <path d="M49.4348341,56 C49.4348341,56 44.0535132,26 71.1526945,26 C98.2518757,26 92.4862675,56 92.4862675,56 L49.4348341,56 Z" id="Fill-1" fill="#FFFFFF"></path>
                 <path d="M49.4348341,56 C49.4348341,56 44.0535132,26 71.1526945,26 C98.2518757,26 92.4862675,56 92.4862675,56 L49.4348341,56 Z" id="Stroke-3" stroke="#2F3132" stroke-width="3"></path>
                 <path d="M35,12 C35,18.6274206 29.6274409,24 23,24 C16.3725592,24 11,18.6274206 11,12 C11,5.37213677 16.3725592,0 23,0 C29.6274409,0 35,5.37213677 35,12" id="Fill-5" fill="#FFFFFF"></path>
@@ -22,8 +22,8 @@
                 <path d="M25.4349118,70 C25.4349118,70 20.0531257,40 47.1529031,40 C74.2522474,40 68.4861718,70 68.4861718,70 L25.4349118,70 Z" id="Stroke-23" stroke="#2F3132" stroke-width="3"></path>
             </g>
             <g id="Group-2" transform="translate(254.000000, 144.000000)">
-                <circle id="Oval" fill="#C1C1C2" cx="15.5" cy="15.5" r="15.5"></circle>
-                <polygon id="1" fill="#FFFFFF" points="11.5 12.301 11.5 9.325 15.4525 7 17.66125 7 17.66125 23.275 14.5225 23.275 14.5225 10.627"></polygon>
+                <circle id="Oval" fill="#fff" cx="15.5" cy="15.5" r="15.5"></circle>
+                <polygon id="1" fill="#000" points="11.5 12.301 11.5 9.325 15.4525 7 17.66125 7 17.66125 23.275 14.5225 23.275 14.5225 10.627"></polygon>
             </g>
         </g>
     </g>
